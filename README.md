@@ -1,5 +1,5 @@
 # ConTV-TOPMTW
-The datasets and solutions of the paper "The Two-Visit Team Orienteering Problem Considering Time-Interval-Dependent Profits and Service Consistency".
+This repository contains datasets and solutions for the paper titled "The Two-Visit Team Orienteering Problem Considering Time-Interval-Dependent Profits and Service Consistency".
 
 Instances_1 serves as the main datasets, while Instances_2 to Instances_9 are the datasets utilized in Section 5.5. 
 
