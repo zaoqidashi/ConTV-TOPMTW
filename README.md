@@ -1,5 +1,5 @@
 # ConTV-TOPMTW
-The dataset and solution of paper "The Two-Visit Team Orienteering Problem Considering Time-Interval-Dependent Profits and Service Consistency"
+The datasets and solutions of the paper "The Two-Visit Team Orienteering Problem Considering Time-Interval-Dependent Profits and Service Consistency".
 
 Instances_1 serves as the main datasets, while Instances_2 to Instances_9 are the datasets utilized in Section 5.5. 
 Instances_2 is an instance set designed for scenarios featuring low time-sensitivity profit functions, long-duration services, and large lower bounds of the optimal interval.
